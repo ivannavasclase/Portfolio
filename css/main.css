@@ -1,0 +1,22 @@
+.nav-link {
+    color: white !important;
+}
+
+.nav {
+    float: left;
+    width: 20%;
+    height: 100vh !important;
+}
+
+.nav-item {
+    padding-bottom: 15vh;
+}
+
+.nav-item:first-of-type {
+    padding-top: 15vh;
+}
+
+
+.nav-link.active {
+    background-color: #000000 !important;
+}
